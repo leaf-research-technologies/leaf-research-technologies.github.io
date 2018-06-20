@@ -17,7 +17,7 @@ title: Leaf Research Technologies Blog
 email: leafteam@cosector.com
 description: >- # this means to ignore newlines until "baseurl:"
   Community and technical news and announcements from the Leaf Team. 
-  Part of Digital Services at [CoSector - University of London](http://cosector.com).
+  Part of Digital Services at CoSector - University of London.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
