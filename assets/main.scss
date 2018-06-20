@@ -1,0 +1,44 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+body {
+    font-family: Arial;
+}
+
+header div.wrapper {
+    max-width: 90%;
+    width: 90%;
+    padding-right: 5%;
+    padding-left: 5%;
+    text-align: right;
+}
+
+.site-header {
+    background-color: #0072ce;
+    background-image: url('/assets/images/cosector-white.png');
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: contain;
+    padding: 10px;
+    background-origin: content-box;
+}
+
+.site-footer {
+    background-color: black;
+    color: white;
+}
+
+.footer-heading {
+    text-transform: uppercase;
+}
+
+.site-title, .site-title:visited, .page-link, .page-link:visited  {
+    color: white;
+    text-transform: uppercase;  
+}
+
+a, a:visited {
+    color: #0072ce;
+}
