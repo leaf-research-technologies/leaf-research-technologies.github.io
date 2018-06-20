@@ -1,0 +1,27 @@
+---
+layout: post
+title:  "EPrints – New REF2021 Plugin"
+date:   2018-06-20 12:45:00 +0100
+categories: eprints plugins
+---
+
+The Research Technologies team at CoSector - University of London is pleased to announce the release of a new plugin for REF2021 for Eprints repositories, with funding from Goldsmiths University of London.
+
+Thanks to Goldsmiths, who permitted the plugin to be released as open source, it is now available for all customers and the wider community via [https://github.com/eprintsug/ref2021](https://github.com/eprintsug/ref2021) .
+
+**Andrew Gray**, Academic Services Librarian at Goldsmiths, commented:
+*“The development and use of the new REF plug-in has been crucial in our preparation for REF2021. This development has been the result of a close and fruitful collaboration with CoSector”*. 
+
+Developed by CoSector’s Senior Digital Repository Specialist Rory McNicholl, and based on the REF2014, this version of the plugin now has integration for OA compliance. 
+
+Key features include:
+* Benchmarks – ability to conduct one or more trial runs of your submission as well as the final run; 
+* Assign UoA Champions – assign champions to oversee allocated units so they can check and verify submissions; 
+* Submit on behalf of other users; 
+* REF1 Profile Information – create an enhanced profile to generate the REF1 report; 
+* Identify REF2 Outputs – individual staff taking part in the REF submission may select their outputs for submission, providing additional key information for the panel to consider; 
+* REFCC integration – the compliance indicator from the REF Compliance Checker is shown when selecting outputs; 
+* Record REF4 Data – store data about degrees awarded and research income for each unit of assessment. 
+
+More information about the services offered by the Research Technologies team at CoSector - University of London can be found at [http://www.cosector.com/research-technologies](http://www.cosector.com/research-technologies), or by contacting the team at [leafteam@cosector.com ](mailto:leafteam@cosector.com).
+

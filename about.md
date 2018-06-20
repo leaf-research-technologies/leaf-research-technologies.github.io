@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+The Leaf Team design, build and support repositories for higher education, research and cultural heritage organisations. We offer hosting, bespoke development and consultancy services. Our core technologies are [EPrints](https://github.com/eprintsug) and [Samvera](http://samvera.org/). We are part of Digital Services at CoSector - University of London.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+### More Information
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+You can find out more about our services at: [http://www.cosector.com/research-technologies](http://www.cosector.com/research-technologies)
 
+### Contact us
 
-[jekyll-organization]: https://github.com/jekyll
+[leafteam@cosector.com](mailto:leafteam@cosector.com)
