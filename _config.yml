@@ -13,15 +13,15 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Leaf Research Technologies Blog
+title: Research Technologies Blog
 email: leafteam@cosector.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Community and technical news and announcements from the Leaf Team. 
+  Community and technical news and announcements from the Reserch Technologies Team. 
   Part of Digital Services at CoSector - University of London.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://leaf-research-technologies.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://research-technologies.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 # twitter_username: jekyllrb
-github_username:  leaf-research-technologies
+github_username:  research-technologies
 timezone: Europe/London
 
 # Build settings
