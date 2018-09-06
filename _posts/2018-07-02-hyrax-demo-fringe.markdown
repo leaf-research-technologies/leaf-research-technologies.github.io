@@ -2,7 +2,7 @@
 layout: post
 title:  "Hyrax Demo for the Repository Fringe"
 date:   2018-07-02 08:00 +0100
-categories: eprints plugins
+categories: samvera hyrax
 ---
 
 We've created a demo instance of Hyrax for Repository Fringe 2018:

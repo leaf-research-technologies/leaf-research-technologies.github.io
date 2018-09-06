@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "10 years as repositories’ other guys"
+date:   2018-07-02 14:00 +0100
+categories: repositories
+---
+
+In July 2018, Rory McNicholl (Lead Developer) Julie Allinson (Lead Developer, Samvera) attended the Repository Fringe in Edinburgh and took part in the 10X10 presentations session. 2018 was the tenth anniversary of the Repo Fringe, making this event a very special one. For our presentation we gave a very quick history of our work during the past ten years.
+
+Slides from the talk are available online:
+[10 years as repositories’ other guys](https://research-technologies.github.io/assets/docs/RepoFringe18_10X10_CoSector.pdf)
