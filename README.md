@@ -56,13 +56,17 @@ Link:
 
 ### Files
 
-Upload any files (eg. conference presentations etc.) into `assets/docs` and link in the text like so:
+Upload any files (eg. conference presentations etc.) into `assets/docs` using the 'upload files' option. 
+
+Link within the post like so:
 
 ```
 [Finding your way to a digital solution: identifying paths and option](https://research-technologies.github.io/assets/docs/HullCityofCultureWorkshop.pdf)
 ```
 
 Upload images into `assets/images`
+
+**NB:** Don't use spaces in filenames
 
 ## Commit the post
 
