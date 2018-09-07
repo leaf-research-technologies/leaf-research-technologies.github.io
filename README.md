@@ -1,4 +1,4 @@
-## Adding a new page
+## Create a post
 
 1. go to https://github.com/research-technologies/research-technologies.github.io
 2. make sure you are logged in and have edit rights for the reposoitory
@@ -74,7 +74,11 @@ Upload images into `assets/images`
 * Optionally add a longer description (not usually needed for posts)
 * Click 'Commit new file'
 
-## Editing a post
+## Edit a post
 
 To edit an existing post, click on the pencil icon in the top right. Make your changes and commit as normal.
+
+## Delete a post
+
+To remove a post, click on the trash can icon in the top right. Commit as normal. The post will be archived in the commit history.
 
