@@ -82,3 +82,9 @@ To edit an existing post, click on the pencil icon in the top right. Make your c
 
 To remove a post, click on the trash can icon in the top right. Commit as normal. The post will be archived in the commit history.
 
+## View your changes
+
+[research-technologies.github.io](https://research-technologies.github.io/)
+
+(it might take a few minutes to appear)
+
