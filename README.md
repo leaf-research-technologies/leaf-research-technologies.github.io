@@ -54,6 +54,8 @@ Link:
 
 ```
 
+If in doubt, got to an existing post, click 'edit' and see how it's done (but don't change it!).
+
 ### Files
 
 Upload any files (eg. conference presentations etc.) into `assets/docs` using the 'upload files' option. 
