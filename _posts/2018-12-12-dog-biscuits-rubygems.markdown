@@ -6,9 +6,9 @@ categories: samvera
 ---
 [Dog Biscuits](https://github.com/samvera-labs/dog_biscuits) is a ruby gem that provides a set of re-usable models, or work types, for use in Hyrax applications.
 
-Dog Biscuits was created and is maintained by [Julie Allinson](https://github.com/geekscruff) from the Research Technologies Team, CoSector, University of London. Originally started whilst working at the University of York, the motivation for DogB iscuits was the need to re-use models across different applications, and also Hyrax' limited in-built support for metadata, and the many steps required to configure new metadata properties in a Hyrax application.
+Dog Biscuits was created and is maintained by [Julie Allinson](https://github.com/geekscruff) from the Research Technologies Team, CoSector, University of London. Originally started whilst working at the University of York, the motivation for Dog Biscuits was the need to re-use models across different applications, and also Hyrax' limited in-built support for metadata, and the many steps required to configure new metadata properties in a Hyrax application.
 
-Towards the end of 2017, the code was made a community gem and moved into the Samvera Labs GitHub organization to promote greater community use and contribution. In Decmeber 2018, a significant refactor made the gem much more streamlined and easier to configure. At that point we decided to release the gem on [rubygems](https://rubygems.org/gems/dog_biscuits).org - the Ruby community's gem hosting service.
+Towards the end of 2017, the code was made a community gem and moved into the Samvera Labs GitHub organization to promote greater community use and contribution. In December 2018, a significant refactor made the gem much more streamlined and easier to configure. At that point we decided to release the gem on [rubygems](https://rubygems.org/gems/dog_biscuits).org - the Ruby community's gem hosting service.
 
 Key Features of Dog Biscuits:
 
@@ -36,4 +36,4 @@ To find out more, please see the [Dog Biscuits GitHub repository](https://github
 
 We really do want Dog Biscuits to be useful to the community and would be delighted to have tire kickers and code contributors. Please feel free to create [issues](https://github.com/samvera-labs/dog_biscuits/issues) or ping `julieallinson` on samvera slack. 
 
-For infromation about the Research Technologies Team, or our services, please see: [http://www.cosector.com/research-technologies]
+For infromation about the Research Technologies Team, or our services, please see: [http://www.cosector.com/research-technologies](http://www.cosector.com/research-technologies)
