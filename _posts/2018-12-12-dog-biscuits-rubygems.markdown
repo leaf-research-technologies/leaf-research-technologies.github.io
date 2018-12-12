@@ -36,4 +36,4 @@ To find out more, please see the [Dog Biscuits GitHub repository](https://github
 
 We really do want Dog Biscuits to be useful to the community and would be delighted to have tire kickers and code contributors. Please feel free to create [issues](https://github.com/samvera-labs/dog_biscuits/issues) or ping `julieallinson` on samvera slack. 
 
-For infromation about the Research Technologies Team, or our services, please see: http://www.cosector.com/research-technologies
+For infromation about the Research Technologies Team, or our services, please see: [http://www.cosector.com/research-technologies]
